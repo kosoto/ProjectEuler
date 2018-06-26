@@ -1,4 +1,4 @@
-package projectEuler;
+package problems_1_9;
 /**
  * 주어진 1000자리숫자에서 연속된 5개의 숫자들을 곱한 값을 비교했을때 
  * 가장 큰 값은 얼마일까?

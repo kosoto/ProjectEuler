@@ -1,4 +1,4 @@
-package projectEuler;
+package problems_1_9;
 /**
  * 600851475143의 소인수 중에서 가장 큰 수를 구하세요.
  * */

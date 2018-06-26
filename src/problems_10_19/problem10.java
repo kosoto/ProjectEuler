@@ -1,4 +1,4 @@
-package projectEuler;
+package problems_10_19;
 import java.math.BigInteger;
 //200백만 이하의 모든 소수들의 합
 public class problem10 {
@@ -13,7 +13,6 @@ public class problem10 {
 	}
 	public static void main(String[] args) {
 		BigInteger sumOfPrimes = new BigInteger("0");
-		int count =0;
 		for(int n=2;n<=2000000;n++) {
 			if(checkPrime(n)) {
 				sumOfPrimes=sumOfPrimes.add(BigInteger.valueOf(n));

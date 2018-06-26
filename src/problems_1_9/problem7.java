@@ -1,4 +1,4 @@
-package projectEuler;
+package problems_1_9;
 //10001번째 소수 구하기
 public class problem7 {
 	public static boolean checkPrime(int i) {

@@ -1,4 +1,4 @@
-package projectEuler;
+package problems_1_9;
 //2~19까지의 수들로 나누어 떨어지는 가장 작은수는?
 public class problem5 {
 
