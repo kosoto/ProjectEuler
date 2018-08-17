@@ -1,6 +1,6 @@
-package problems_1_9;
+package problems_1_10;
 //2~19까지의 수들로 나누어 떨어지는 가장 작은수는?
-public class problem5 {
+public class problem05 {
 
 public static void main(String[] args) {
 	int result = 0;

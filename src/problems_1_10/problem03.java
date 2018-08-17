@@ -1,9 +1,9 @@
-package problems_1_9;
+package problems_1_10;
 /**
  * 600851475143의 소인수 중에서 가장 큰 수를 구하세요.
  * */
 //10분이상 돌아감 안좋은 코딩
-public class problem3 {
+public class problem03 {
 public static void main(String[] args) {
 	long n = 600851475143L;
 	long result = n,temp =0;

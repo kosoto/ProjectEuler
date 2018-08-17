@@ -8,7 +8,6 @@ public class problem29 {
 		Set<String> set = new HashSet<>();
 		for(int a=2;a<=100;a++) {
 			for(int b=2;b<=100;b++) {
-				System.out.println(a+" "+b+" "+(int)Math.pow(a, b));
 				set.add(String.valueOf(Math.pow(a, b)));
 			}
 		}

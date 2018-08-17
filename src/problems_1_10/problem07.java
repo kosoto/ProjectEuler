@@ -1,6 +1,6 @@
-package problems_1_9;
+package problems_1_10;
 //10001번째 소수 구하기
-public class problem7 {
+public class problem07 {
 	public static boolean checkPrime(int i) {
 		boolean flag = true;
 		for(int j=2;j<=i/2;j++) {

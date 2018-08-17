@@ -1,4 +1,4 @@
-package problems_10_19;
+package problems_1_10;
 import java.math.BigInteger;
 //200백만 이하의 모든 소수들의 합
 public class problem10 {

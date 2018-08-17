@@ -1,6 +1,6 @@
-package problems_1_9;
+package problems_1_10;
 //1부터 100가지의 "제곱의합" 과 " 합의 제곱" 의 차는?
-public class problem6 {
+public class problem06 {
 public static void main(String[] args) {
 	int sumOfSquare =0;
 	int squareOfSum =0;

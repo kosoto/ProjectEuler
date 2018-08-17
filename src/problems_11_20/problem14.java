@@ -1,4 +1,4 @@
-package problems_10_19;
+package problems_11_20;
 /**
  양의 정수 n에 대하여, 다음과 같은 계산 과정을 반복하기로 합니다.
 n → n / 2 (n이 짝수일 때)
